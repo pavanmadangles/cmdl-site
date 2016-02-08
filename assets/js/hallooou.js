@@ -181,7 +181,7 @@ $(function() {
 
 
 // YouTube Player
-$(function() {
+/*$(function() {
     $(".player").mb_YTPlayer();
 
     $('#video-play').click(function(event) {
@@ -201,11 +201,11 @@ $(function() {
         $(this).toggleClass('fa-volume-off fa-volume-up');
         return false;
     });
-});
+});*/
 
 
 // HTML5 Player
-$(function() {
+/*$(function() {
 
     var vid = $("#html5-video").get(0);
 
@@ -230,7 +230,7 @@ $(function() {
         $(this).toggleClass('fa-volume-off fa-volume-up');
         return false;
     });
-});
+});*/
 
 
 
